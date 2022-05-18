@@ -3,6 +3,7 @@ atomicwrites==1.2.1
 attrs==18.2.0
 certifi==2018.8.24
 chardet==3.0.4
+cloudpickle==1.2.0
 cycler==0.10.0
 docopt==0.6.2
 enum34==1.1.6
@@ -17,6 +18,8 @@ more-itertools==4.3.0
 mpyq==0.2.5
 munch==2.3.2
 numpy==1.22.3
+oauthlib==3.0.0
+google-auth==1.0.0
 pathlib2==2.3.2
 pbr==4.3.0
 Pillow==9.0.1
